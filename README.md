@@ -1,8 +1,4 @@
-It looks like you've shared a portion of the README content, but it seems there might be some extraneous parts or formatting issues (like URLs and repeated references to `mohamedirfansh.github.io` and `GeeksforGeeks`).
 
-Here's an updated version of the `README.md` with improved formatting and corrections:
-
----
 
 # 🏠 EAS503 Project: Airbnb Analysis
 
